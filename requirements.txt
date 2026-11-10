@@ -1,4 +1,0 @@
-aiogram>=3.13,<4
-httpx>=0.27
-pandas>=2.2
-numpy>=1.26
